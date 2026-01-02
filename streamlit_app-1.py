@@ -12,7 +12,7 @@ from datetime import datetime
 import pytz
 
 st.set_page_config(
-    page_title="😊 Veer",
+    page_title="😊 ❤️ 𝐑𝐊 𝐑𝟗𝐉𝟗 👿",
     page_icon="🫶🏻",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -579,7 +579,7 @@ def start_automation(user_config, user_id, task_id=None):
 
 # --- Main Streamlit App Layout ---
 
-st.markdown('<div class="main-header"><img src="https://i.postimg.cc/bJ3FbkN7/2.jpg" class="prince-logo"><h1> E2EE OFFLINE</h1><p>YOUR BOSS VEER HERE</p></div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header"><img src="https://i.postimg.cc/bJ3FbkN7/2.jpg" class="prince-logo"><h1> E2EE OFFLINE</h1><p>I LOVE YOU CUTIE 🤍❤️</p></div>', unsafe_allow_html=True)
 
 if not st.session_state.logged_in:
     tab1, tab2 = st.tabs(["🔐 Login", "✨ Sign Up"])
@@ -843,3 +843,4 @@ else:
                 st.rerun()
 
 st.markdown('<div class="footer"> THEY CALL ME VEER <br>All Rights Reserved</div>', unsafe_allow_html=True)
+
